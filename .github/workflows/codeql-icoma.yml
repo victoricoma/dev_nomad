@@ -100,7 +100,7 @@ jobs:
       with:
         category: "/language:${{matrix.language}}"
 
-    - name: Icoma agent: key_wDCAa2ijJsJ6yqBF
+    - name: icoma.com
       shell: bash
       run: |
        echo: 'Load: ping https://icoma.com.br/' 
